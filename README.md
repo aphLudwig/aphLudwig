@@ -11,7 +11,7 @@
 　　　　　 ㅤ
 ㅤㅤㅤㅤㅤ
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</div> <div align="center"><img width="700" height="400" alt="fbdd7729ba9eb10fe17db95716bd7603" src=" " />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</div> <div align="center"><img width="700" height="400" alt="fbdd7729ba9eb10fe17db95716bd7603" src="https://github.com/vulture-20900/info/blob/main/peter-strahm-mark-hoffman.gif" />
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 　　ㅤㅤㅤ
