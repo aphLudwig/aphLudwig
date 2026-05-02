@@ -1,5 +1,5 @@
 # info
-　 　 　　ㅤㅤ<img width="850" height="100" alt="divider-weirdcore" src="" />
+　 　 　　ㅤㅤ<img width="850" height="100" alt="divider-weirdcore" src="https://github.com/vulture-20900/info/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F18_20260502213001.png" />
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
@@ -23,5 +23,3 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 　　ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</div> <div align="center">ㅤㅤ<img width="50" height="50" alt="tkthao219-rosa" src=" " />
