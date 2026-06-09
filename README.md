@@ -1,5 +1,5 @@
 # info
-　 　 　　ㅤㅤ<img width="700" height="200" alt="divider-weirdcore" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
+　 　 　　ㅤ<img width="700" height="200" alt="divider-weirdcore" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
