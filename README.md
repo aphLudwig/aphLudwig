@@ -11,7 +11,7 @@ TG @vu1ture_20900
 　　　　　 ㅤ
 ㅤㅤㅤㅤㅤ
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</div> <div align="center"><img width="700" height="400" alt="https://github.com/vulture-20900/vulture-20900/blob/main/germany-hetalia.gif?raw=true" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</div> <div align="center"><img width="800" height="500" alt="https://github.com/vulture-20900/vulture-20900/blob/main/germany-hetalia.gif?raw=true" />
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 　　ㅤㅤㅤ
