@@ -3,14 +3,12 @@
 　 　 　ㅤ　 　 　ㅤ　 　 　<img width="700" height="60" alt="core" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/i.webp" />
      <div align="center">
 
-# VULTURE
+<h1 style="margin-bottom: 10 px;">VULTURE</h1>
 
-ENG \ GER \ RUS
+ENG \ GER \ RUS<br>
 C+H ` W2I
 
-**I OFTEN AFK!!** If I don't answer you, be patient or write to me on discord. (. _ . )
-
-<br>
+<p style="margin: 10 px 0;"><b>I OFTEN AFK!!</b> If I don't answer you, be patient or write to me on discord. (. _ . )</p>
 
 <!-- Кнопка Telegram -->
 <a href="https://t.me" target="_blank">
@@ -21,18 +19,17 @@ C+H ` W2I
   <img src="https://shields.io" alt="Discord">
 </a>
 
-<br>
+<p style="margin-top: 15 px; margin-bottom: 10 px;">I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances.</p>
 
-I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances.
-
-**FANDOMS:**
-HETALIA ; CASTLEVANIA ; DEAD BY DAYLIGHT ; SAW (JIGSAW) ; DISCO ELYSIUM
+<h3 style="margin: 5 px 0;">🎬 FANDOMS</h3>
+HETALIA ; CASTLEVANIA ; DEAD BY DAYLIGHT ; SAW (JIGSAW) ; DISCO ELYSIUM<br>
 RESIDENT EVIL ; CLOCKWORK ORANGE ; SCREAM ; POSTAL ; DISPATCH ; THE DISHWASHER : VAMPIRE SMILE...
 
-**DO NOT INT**
-Under 14 pls
+<h3 style="margin: 15 px 0 5 px 0;">DO NOT INT</h3>
+Under 14 pls<br>
 Gerita haters
 
 </div>
+
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 　　　　　 　 　　ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ　　 ㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<div align="center"> <img width="700" height="400" alt="germany" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/east-germany-gdr.gif" /> </div>
