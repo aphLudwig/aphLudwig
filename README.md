@@ -1,6 +1,6 @@
 # info
-　 　 　ㅤ<img width="700" height="200" alt="divider-weirdcore" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
-　 　 　ㅤ　 　 　ㅤ　 　 　<img width="700" height="100" alt="divider-weirdcore" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/ahh.png" />
+　 　 　ㅤ<img width="700" height="200" alt="Ludwig" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
+　 　 　ㅤ　 　 　ㅤ　 　 　<img width="700" height="100" alt="core" src="https://github.com/vulture-20900/vulture-20900/blob/main/ahh.kra" />
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 　　　　　 　 　　ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ　　
@@ -17,4 +17,4 @@ Gerita haters
 
 
 ㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<div align="center"> <img width="700" height="400" alt="Hetalia.gif" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/east-germany-gdr.gif" /> </div>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<div align="center"> <img width="700" height="400" alt="germany" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/east-germany-gdr.gif" /> </div>
