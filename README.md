@@ -15,10 +15,17 @@ C+H ` W2I
 
 <br>
 
-[![Telegram](https://shields.io)](https://t.me)
-[![Discord](https://shields.io)](https://discord.com)
+<!-- Кнопка Telegram -->
+<a href="https://t.me" target="_blank">
+  <img src="https://shields.io" alt="Telegram">
+</a>
 
-<br>
+<!-- Кнопка Discord -->
+<a href="https://discord.com" target="_blank">
+  <img src="https://shields.io" alt="Discord">
+</a>
+
+<br><br>
 
 I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances.
 **FANDOMS :** HETALIA ; CASTLEVANIA ; DEAD BY DAYLIGHT ; SAW (JIGSAW) ; DISCO ELYSIUM
@@ -29,5 +36,6 @@ Under 14 pls
 Gerita haters
 
 </div>
+
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 　　　　　 　 　　ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ　　 ㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<div align="center"> <img width="700" height="400" alt="germany" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/east-germany-gdr.gif" /> </div>
