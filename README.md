@@ -1,6 +1,6 @@
 # info
 　 　 　ㅤ<img width="700" height="200" alt="divider-weirdcore" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
-　 　 　ㅤ　 　 　ㅤ<img width="700" height="100" alt="divider-weirdcore" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/ahh.png" />
+　 　 　ㅤ　 　 　ㅤ　 　 　ㅤ<img width="700" height="100" alt="divider-weirdcore" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/ahh.png" />
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 　　　　　 　 　　ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ　　
