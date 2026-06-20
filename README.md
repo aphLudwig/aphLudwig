@@ -42,4 +42,4 @@ Gerita haters
 </div><br>
 
 <div align="center"> <img width="1000" height="400" alt="germany" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/east-germany-gdr.gif" /> </div>
-<div align="center"> <img width="1000" height="300" alt="germany" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/a5e02735a6d32ff438f0b40d2b3e9485.jpg" /> </div>
+<div align="left"> <img width="200" height="300" alt="winter" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/a5e02735a6d32ff438f0b40d2b3e9485.jpg" /> </div>
