@@ -1,7 +1,6 @@
 # info
 　 　 　ㅤ<img width="700" height="200" alt="Ludwig" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
-　 　 　ㅤ　 　 　ㅤ　 　 　<img width="700" height="60" alt="core" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/i.webp" />
-     <div align="center">
+　 　<div align="center">
 
 <h1 style="margin-bottom: 10 px;">VULTURE</h1>
 
@@ -11,11 +10,14 @@ C+H ` W2I
 <p style="margin: 10 px 0;"><b>I OFTEN AFK!!</b> If I don't answer you, be patient or write to me on discord. (. _ . )</p>
 
 <p style="margin: 5 px 0;">
-  TELEGRAM <a href="https://t.me" target="_blank">@vu1ture_20900</a> `` 
+  TELEGRAM <a href="https://t.me" target="_blank">@vulture_20900</a> `` 
   DISCORD <a href="https://discord.com" target="_blank">@vulture_20900</a>
 </p>
 
-<p style="margin-top: 10 px; margin-bottom: 10 px;">I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances.</p>
+<p style="margin-top: 10 px; margin-bottom: 15 px;">I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances.</p>
+
+<!-- Картинка перед фандомами -->
+<img width="700" src="https://githubusercontent.com" alt="core" style="max-width: 100 %; height: auto; margin-bottom: 10 px;" />
 
 <h3 style="margin: 5 px 0;">🎬 FANDOMS</h3>
 HETALIA ; CASTLEVANIA ; DEAD BY DAYLIGHT ; SAW (JIGSAW) ; DISCO ELYSIUM<br>
@@ -26,6 +28,7 @@ Under 14 pls<br>
 Gerita haters
 
 </div>
+
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 　　　　　 　 　　ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ　　 ㅤㅤㅤㅤㅤㅤ
