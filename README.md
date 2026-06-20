@@ -1,5 +1,5 @@
 # info
-　 　 　ㅤ<img width="700" height="200" alt="Ludwig" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
+　 　 　ㅤ<img width="1000" height="200" alt="Ludwig" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
 　 　<div align="center">
 
 <h1 style="margin-bottom: 10 px;">VULTURE</h1>
@@ -41,4 +41,4 @@ Gerita haters
 
 </div><br>
 
-<div align="center"> <img width="700" height="400" alt="germany" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/east-germany-gdr.gif" /> </div>
+<div align="center"> <img width="1000" height="400" alt="germany" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/east-germany-gdr.gif" /> </div>
