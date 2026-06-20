@@ -25,7 +25,8 @@ RESIDENT EVIL ; CLOCKWORK ORANGE ; SCREAM ; POSTAL ; DISPATCH ; THE DISHWASHER :
 
 <h3 style="margin: 15 px 0 5 px 0;">DO NOT INT</h3>
 Under 14 pls<br>
-Gerita haters<br>
+Gerita haters
 
-</div>
+</div><br>
+
 <div align="center"> <img width="700" height="400" alt="germany" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/east-germany-gdr.gif" /> </div>
