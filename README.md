@@ -11,7 +11,7 @@ C+H ` W2I
 <p style="margin: 10 px 0;"><b>I OFTEN AFK!!</b> If I don't answer you, be patient or write to me on discord. (. _ . )</p>
 
 <p style="margin: 5 px 0;">
-  TELEGRAM <a href="https://t.me" target="_blank">@vulture_20900</a> `` 
+  TELEGRAM <a href="https://t.me" target="_blank">@vu1ture_20900</a> `` 
   DISCORD <a href="https://discord.com" target="_blank">@vulture_20900</a>
 </p>
 
