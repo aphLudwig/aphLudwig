@@ -1,6 +1,6 @@
 # info
 　 　 　ㅤ<img width="700" height="200" alt="Ludwig" src="https://github.com/vulture-20900/vulture-20900/raw/main/8ec82ead28848e392f572ab50ad483b6.jpg" />
-　 　 　ㅤ　 　 　ㅤ　 　 　<img width="700" height="100" alt="core" src="https://github.com/vulture-20900/vulture-20900/blob/main/ahh.kra" />
+　 　 　ㅤ　 　 　ㅤ　 　 　<img width="700" height="100" alt="core" src="" />
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 　　　　　 　 　　ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ　　
