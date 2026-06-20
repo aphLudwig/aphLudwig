@@ -7,14 +7,14 @@
 ENG \ GER \ RUS<br>
 C+H ` W2I
 
-<p style="margin: 10 px 0;"><b>I OFTEN AFK!!</b> If I don't answer you, be patient or write to me on discord. (. _ . )</p>
+<p style="margin: 10 px 0;"><b>I OFTEN AFK!!</b> If I don't answer you, be patient or write to me on discord.</p>
 
 <p style="margin: 5 px 0;">
   TELEGRAM <a href="https://t.me" target="_blank">@vulture_20900</a> `` 
   DISCORD <a href="https://discord.com" target="_blank">@vulture_20900</a>
 </p>
 
-<p style="margin-top: 10 px; margin-bottom: 15 px;">I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances. I'm FUCKING LOVE Ludwig Beilschmidt,,, </p>
+<p style="margin-top: 10 px; margin-bottom: 15 px;">I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances. I'm FUCKING LOVE Ludwig Beilschmidt,,,</p>
 
 <img width="700" height="60" alt="core" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/i.webp" />
 
