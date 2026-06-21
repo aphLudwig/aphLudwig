@@ -12,7 +12,7 @@ C+H ` W2I
 <p style="margin: 5 px 0;">
   TELEGRAM <a href="https://t.me" target="_blank">@vu1ture_20900</a> `` 
   DISCORD <a href="https://discord.com" target="_blank">@vulture_20900</a> `` 
-  STEAM <a href="https://steamcommunity.com" target="_blank">Vulture20900</a>
+  STEAM <a href="https://steamcommunity.com/profiles/76561199860571497/" target="_blank">Vulture20900</a>
 </p>
 
 <p style="margin-top: 10 px; margin-bottom: 15 px;">I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances. I often draw, but I really hate my creativity (although it's actually quite good .,,). I FUCKING LOVE Ludwig Beilschmidt. I also have a dog.</p>
