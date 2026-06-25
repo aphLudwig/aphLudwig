@@ -23,9 +23,9 @@ C+H ` W2I
   <tr style="border: none; background: transparent;">
     <!-- Левая колонка: Фандомы -->
     <td align="center" valign="middle" style="border: none; padding-right: 20 px;">
-      <h3 style="margin: 5 px 0;"> FANDOMS</h3>
-      HETALIA ; CASTLEVANIA ; DEAD BY DAYLIGHT ; SAW (JIGSAW) ; DISCO ELYSIUM<br>
-      RESIDENT EVIL ; CLOCKWORK ORANGE ; SCREAM ; POSTAL ; DISPATCH ; THE DISHWASHER : VAMPIRE SMILE...
+      <h3 style="margin: 5 px 0;"> agh</h3>
+      This ordeal made us realize that human life is priceless. And every day we were convinced that life must be protected.<br>
+      The basis of civil society is justice. And I believe that we are doing justice.
     </td>
     <!-- Правая колонка: Картинка -->
     <td align="center" valign="middle" style="border: none;">
