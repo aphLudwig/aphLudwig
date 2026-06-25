@@ -35,8 +35,9 @@ C+H ` W2I
 </table>
 
 <h3 style="margin: 15 px 0 5 px 0;">DO NOT INT</h3>
-Under 14 pls<br>
-Gerita haters
+UNDER 14<br>
+overly gentle people<br>
+are zoophiles, necrophiles, Nazis, fascists, Russophobes
 
 </div><br>
 
