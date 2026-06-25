@@ -16,8 +16,6 @@ C+H ` W2I
   STRAW PAGE <a href="https://vulture75.straw.page" target= "_blank">Vulture_75</a> 
 </p>
 
-<p style="margin-top: 10 px; margin-bottom: 15 px;">I am a Vulture or a CYAN (it reads like Siyan) for people close to me. I'm 16 Y.O. ,,,, Idk what i can write here. I don't mind new acquaintances. I often draw, but I really hate my creativity (although it's actually quite good .,,). I FUCKING LOVE Ludwig Beilschmidt. I also have a dog.</p>
-
 <img width="1000" height="60" alt="core" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/i.webp" />
 
 <!-- Блок фандомов и картинки Людвига бок о бок -->
