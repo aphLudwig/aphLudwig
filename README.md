@@ -16,4 +16,4 @@ C+H ` W2I
   STRAW PAGE <a href="https://vulture75.straw.page" target= "_blank">Vulture_75</a> 
 </p>
 
-　 　 　ㅤ<img width="1000" height="200" alt="Vulture" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/3e8d113aeeca82548b3b9ff576ca6e31.jpg" />
+　 　 　ㅤ<img width="1000" height="400" alt="Vulture" src="https://raw.githubusercontent.com/vulture-20900/vulture-20900/refs/heads/main/3e8d113aeeca82548b3b9ff576ca6e31.jpg" />
