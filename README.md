@@ -1,5 +1,5 @@
 # info
-　 　 　ㅤ<img width="1000" height="200" alt="Ludwig" src="https://raw.githubusercontent.com/aphGermanyy/vulture-20900/refs/heads/main/97d095857cbac60102163d0598d505e7.jpg" />
+　 　 　ㅤ<img width="800" height="200" alt="Ludwig" src="https://raw.githubusercontent.com/aphGermanyy/vulture-20900/refs/heads/main/97d095857cbac60102163d0598d505e7.jpg" />
 　 　<div align="center">
 
 <h1 style="margin-bottom: 10 px;">VULTURE</h1>
@@ -16,4 +16,4 @@ C+H ` W2I
   STRAW PAGE <a href="https://vulture75.straw.page" target= "_blank">Vulture_75</a> 
 </p>
 
-　 　 　ㅤ<img width="1000" height="400" alt="Vulture" src="https://raw.githubusercontent.com/aphGermanyy/vulture-20900/refs/heads/main/east-germany-gdr.gif" />
+　 　 　ㅤ<img width="800" height="400" alt="Vulture" src="https://raw.githubusercontent.com/aphGermanyy/vulture-20900/refs/heads/main/east-germany-gdr.gif" />
