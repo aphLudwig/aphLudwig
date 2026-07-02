@@ -2,7 +2,7 @@
 　 　 　ㅤ<img width="800" height="200" alt="Ludwig" src="https://raw.githubusercontent.com/aphGermanyy/vulture-20900/refs/heads/main/97d095857cbac60102163d0598d505e7.jpg" />
 　 　<div align="center">
 
-<h1 style="margin-bottom: 10 px;">IM A LUDIG AKA VULTURE</h1>
+<h1 style="margin-bottom: 10 px;">IM A LUDWIG AKA VULTURE</h1>
 
 <p style="margin: 10 px 0;"><b>I OFTEN AFK!!</b> If I don't answer you, be patient or write to me on discord.</p>
 
